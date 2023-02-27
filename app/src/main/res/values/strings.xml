@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">app</string>
+    <string name="app_name">ax</string>
 
     <string name="text">Привет!</string>
     <string name="yes">дарова</string>
@@ -7,4 +7,6 @@
     <string name="cancel">Отмена</string>
     <string name="minus">фу таким быть</string>
     <string name="plus">ты милашка!</string>
+    <string name="you">you</string>
+    <string name="someone">someone who can bring many words</string>
 </resources>
